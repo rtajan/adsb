@@ -1,0 +1,17 @@
+# C++ build
+build/
+cmake-build-*/
+*.o
+*.so
+*.dylib
+*.a
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+
+# macOS
+.DS_Store
